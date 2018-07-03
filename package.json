@@ -1,14 +1,14 @@
 {
-  "name": "language-mathematica",
+  "name": "wolfram-atom-editor",
   "version": "0.3.2",
   "main": "./lib/main",
-  "description": "Mathematica (Wolfram Language) support in Atom",
+  "description": "Wolfram Language support in Atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fitzse/language-mathematica.git"
+    "url": "https://github.com/arnoudbuzing/wolfram-atom-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/Fitzse/language-mathematica/issues"
+    "url": "https://github.com/arnoudbuzing/wolfram-atom-editor/issues"
   },
   "license": "MIT",
   "engines": {

@@ -1,5 +1,7 @@
+This repo was forked from https://github.com/Fitzse/language-mathematica
+
 #Overview
-This package defines a grammar for the Atom text editor which describes the Wolfram Language (used in Mathematica).
+This package defines a grammar for the Atom text editor which describes the Wolfram Language.
 
 The list of built-in keywords was calculated using all the symbol names in the *System`* context of Mathematica 11.0.1.
 
