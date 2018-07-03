@@ -1,4 +1,4 @@
-".source.mathematica":
+".source.wolfram":
   "Begin ... `Private`":
     prefix: "begin"
     body: '''

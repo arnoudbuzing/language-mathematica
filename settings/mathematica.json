@@ -1,5 +1,5 @@
 {
-  ".source.mathematica": {
+  ".source.wolfram": {
     "editor": {
       "commentStart": "(*",
       "commentEnd": "*)"
